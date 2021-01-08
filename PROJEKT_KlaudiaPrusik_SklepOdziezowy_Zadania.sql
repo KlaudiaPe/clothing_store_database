@@ -1,4 +1,3 @@
---my_clothing_store
 /*
 pkt 8. Wyœwietl wszystkie produkty z wszystkimi danymi od dostawcy, który znajduje siê na pozycji 1 w tabeli Dostawca*/
 
